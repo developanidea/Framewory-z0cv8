@@ -130,5 +130,6 @@ export function parseMetadataTelemetry(buffer) {
         version: version,
         stringOffset: stringOffset,
         detectedAssemblies: detectedAssemblies
+        module.exports = { unpackUnityWebData };
     };
 }
