@@ -1,9 +1,0 @@
-{
-  "name": "custom-webassembly-modifier",
-  "version": "1.0.0",
-  "type": "module",
-  "devDependencies": {
-    "webpack": "^5.0.0",
-    "webpack-cli": "^5.0.0"
-  }
-}
